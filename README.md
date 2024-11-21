@@ -81,4 +81,4 @@ Keshan, Kritika Bhatnagar, Himanshu Nigam, and Aditi Jain
 
 ## Acknowledgement
 
-I extend my heartfelt gratitude to Dr. Shikha Jain, Assistant Professor, CSE & IT Department, JIIT, Noida, for her invaluable guidance and support throughout the development of this Project Based Learning titled Towards Healthcare Automation.
+I extend my heartfelt gratitude to Dr. Shikha Jain, Assistant Professor, CSE & IT Department, JIIT, Noida, for her invaluable guidance and support throughout the development of this Project Based Learning titled **Towards Healthcare Automation**.
